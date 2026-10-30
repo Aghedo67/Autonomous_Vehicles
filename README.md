@@ -2,7 +2,7 @@
 
 > Would you trust the ride? An analysis of 2,500 autonomous vehicle journeys to find what drives problems, test whether they can be predicted, and decide whether the technology can be trusted.
 
-**Live app:** _add your Streamlit Cloud link here_
+**Live app:** https://autonomousvehicles-dscmqpy3hknqx4ipqvvncr.streamlit.app/
 
 ---
 
@@ -189,7 +189,7 @@ Run the save cell at the end of the notebook. It refits the chosen pipeline on a
 
 ## Deployment
 
-The app runs on [Streamlit Community Cloud](https://share.streamlit.io):
+The app runs on [Streamlit Community Cloud]([https://share.streamlit.io](https://autonomousvehicles-dscmqpy3hknqx4ipqvvncr.streamlit.app/)):
 
 1. Push `app_6.py`, `av_risk_model.joblib` and `requirements.txt` to GitHub.
 2. On share.streamlit.io, click **Create app** and choose the repository and `app_6.py`.
